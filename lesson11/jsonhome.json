@@ -1,0 +1,14 @@
+{
+    "Exams": {
+        "Subject": [
+            {
+                "name": "Math",
+                "totalpoint": "100"
+            },
+            {
+                "name": "Math",
+                "totalpoint": "100"
+            }
+        ]
+    }
+}
